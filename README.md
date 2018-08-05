@@ -9,6 +9,8 @@ Download data from https://www.bseindia.com/ and perform
 1.Daily return analysis
 2.Monthly Return Analysis
 3.Portfolio Analysis
+
+
 ************Implementation***********************************
 1.Calculate daily and monthly gain
 2.Calculate the mean and variance of percentage daily/monthly returns
