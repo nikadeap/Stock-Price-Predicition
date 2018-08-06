@@ -4,10 +4,10 @@
 
 **Question: Download the Daily Stock Prices of following stocks from https://www.bseindia.com/ for the period of 5 years.**
 
-* ABC 
-* XYZ
-* MNO 
-* QST
+* Stock1 
+* Stock2
+* Stock3 
+* Stock4
 
 **and Perform**
 
